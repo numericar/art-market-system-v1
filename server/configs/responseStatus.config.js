@@ -1,0 +1,5 @@
+const RESPONSE_STATUS_CONFIGS = {
+    OK: 200
+}
+
+module.exports = RESPONSE_STATUS_CONFIGS;
